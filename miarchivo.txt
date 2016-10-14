@@ -1,2 +1,4 @@
+Esto también era importante!!
+
 total 0
 -rw-r--r--  1 midesweb  staff  0 14 oct 18:57 miarchivo.txt
